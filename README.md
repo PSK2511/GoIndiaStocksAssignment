@@ -1,16 +1,6 @@
 ### Stock Tracker
 This project is used for getting the details of some of the stocks listed companies. Features of the app are listing stocks with custom filters and search.
 
-### Screenshot of the app
-
-<p align="center">
-  <img src="https://drive.google.com/file/d/1W4XY-VOYLMu36Z9z7e7JjXzTUVXSzUmF/view?usp=sharing" width="130" height="250">
-</p>
-
-<p align="center">
-  <img src="https://drive.google.com/file/d/1W3b2jseDnz5SLvPyvDk8i2cxTX5NJATj/view?usp=sharing" width="130" height="250">
-</p>
-
 #### Tech Stack Used
 
 * Flutter
